@@ -12,6 +12,7 @@ html {
 
 @media only screen and (min-width:800px){
   #monkey {
-    rihgt: 0;
+    right: 0;
+    top: 0;
   }
 }
