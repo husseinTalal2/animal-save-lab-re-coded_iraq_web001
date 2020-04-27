@@ -19,4 +19,15 @@ html {
 }
 
 /* Write your solution here */
+@media only screen and (max-width:1000px){
+  #dolphin {
+    right: 0;
+    top: 0;
+  }
+}
+@media only screen and (max-width:600px){
+  #monkey {
+    right: 0;
 
+  }
+}
